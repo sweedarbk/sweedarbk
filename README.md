@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Brooke Sweedar!</h1>
+![Copy of Gradient Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/7b0beb0e-6b53-48d5-97ef-b654032cfaed)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center"><img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="hello!" width="75" />, I'm Brooke!</h1>
 <h3 align="center">A Passionate and Dedicated Software Engineer.</h3>
-<p align="center">With a strong foundation in responsive web design and hands-on experience in developing dynamic, user-friendly web applications, I thrive on tackling complex problems and turning ideas into reality. My journey into tech is driven by curiosity and a commitment to continuous learning. My background equips me with a unique perspective on problem-solving and innovation.</p>
+<p align="center">With a strong foundation in responsive web design and hands-on experience in developing dynamic, <br> user-friendly web applications, I thrive on tackling complex problems and turning ideas into reality. <br> My journey into tech is driven by curiosity and a commitment to continuous learning. <br> My background equips me with a unique perspective on problem-solving and innovation.</p>
+<p align="center">INTJ | Architect | Strengthfinder Qualities: Focus, Deliberative, Learning, and Belief. <br>
+Cat person, Gamer, Book Reader, Red Wine Lover, Jazz Listener, Globe-Trotter, Foodie.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sweedarbk&label=Profile%20views&color=0e75b6&style=flat" alt="sweedarbk" width="125" /> </p>
 
