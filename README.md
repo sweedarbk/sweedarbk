@@ -36,7 +36,7 @@ Cat person, Gamer, Book Reader, Red Wine Lover, Jazz Listener, Globe-Trotter, Fo
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweedarbk&show_icons=true&locale=en&layout=compact" alt="sweedarbk" width="500" />
 </div>
 <br>
-<p align="center">Thanks for stopping by!</p>
+<h3 align="center">Thanks for stopping by!</h3>
 <br>
 <div align="center">
 <img src="https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif" alt="codecat" width="250" />
