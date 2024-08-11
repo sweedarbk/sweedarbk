@@ -1,4 +1,4 @@
-![Copy of Gradient Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/7b0beb0e-6b53-48d5-97ef-b654032cfaed)
+![GitHub Banner](https://github.com/user-attachments/assets/7b0beb0e-6b53-48d5-97ef-b654032cfaed)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center"><img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="hello!" width="75" />, I'm Brooke!</h1>
@@ -7,11 +7,11 @@
 <p align="center">INTJ | Architect | Strengthfinder Qualities: Focus, Deliberative, Learning, and Belief. <br>
 Cat person, Gamer, Book Reader, Red Wine Lover, Jazz Listener, Globe-Trotter, Foodie.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sweedarbk&label=Profile%20views&color=0e75b6&style=flat" alt="sweedarbk" width="125" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sweedarbk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="125" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/brooke-sweedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brooke-sweedar/" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/brooke-sweedar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brooke's LinkedIn" height="40" width="50" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -33,7 +33,7 @@ Cat person, Gamer, Book Reader, Red Wine Lover, Jazz Listener, Globe-Trotter, Fo
 <br>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweedarbk&show_icons=true&locale=en&layout=compact" alt="sweedarbk" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweedarbk&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="500" />
 </div>
 <br>
 <h3 align="center">Thanks for stopping by!</h3>
